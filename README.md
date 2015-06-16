@@ -1,14 +1,14 @@
 # JSOS
 
 An operating system written in JavaScript
-
+Ximian Resell this project up coming to ReDNEK
 ## License
 
 The kernel, C library, compiler and JavaScript VM are licensed under the Simplified BSD license:
 
     Copyright (c) 2012, Charlie Somerville
     All rights reserved.
-
+    
     Redistribution and use in source and binary forms, with or without
     modification, are permitted provided that the following conditions are met: 
 
